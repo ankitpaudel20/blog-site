@@ -3,4 +3,4 @@
 	url = https://github.com/ankitpaudel20/gokarna.git
 [submodule "themes/papermodx"]
 	path = themes/papermodx
-	url = git@github.com:ankitpaudel20/hugo-PaperModX.git
+	url = https://github.com/ankitpaudel20/hugo-PaperModX.git
