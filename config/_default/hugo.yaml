@@ -1,0 +1,8 @@
+baseURL: "https://ankitp.com.np/"
+languageCode: "en-us"
+title: "Ankit Paudel Site"
+theme: papermodx
+contentDir: contents/en/
+services:
+  googleAnalytics:
+    ID: "G-PB2MMBD905"
